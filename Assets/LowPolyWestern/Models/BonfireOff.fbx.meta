@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: babe542b7312fe54c95b80b15fd3de83
+timeCreated: 1494497784
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bonfireOff
+    100004: rock01
+    100006: rock02
+    100008: rock03
+    100010: rock04
+    100012: rock05
+    100014: rock06
+    100016: rock07
+    100018: rock08
+    100020: rock09
+    100022: rock10
+    100024: rock11
+    100026: rock12
+    100028: rock13
+    100030: rock14
+    100032: rock15
+    100034: rock16
+    100036: rocks
+    400000: //RootNode
+    400002: bonfireOff
+    400004: rock01
+    400006: rock02
+    400008: rock03
+    400010: rock04
+    400012: rock05
+    400014: rock06
+    400016: rock07
+    400018: rock08
+    400020: rock09
+    400022: rock10
+    400024: rock11
+    400026: rock12
+    400028: rock13
+    400030: rock14
+    400032: rock15
+    400034: rock16
+    400036: rocks
+    2300000: bonfireOff
+    2300002: rock01
+    2300004: rock02
+    2300006: rock03
+    2300008: rock04
+    2300010: rock05
+    2300012: rock06
+    2300014: rock07
+    2300016: rock08
+    2300018: rock09
+    2300020: rock10
+    2300022: rock11
+    2300024: rock12
+    2300026: rock13
+    2300028: rock14
+    2300030: rock15
+    2300032: rock16
+    2300034: rocks
+    2300036: //RootNode
+    3300000: bonfireOff
+    3300002: rock01
+    3300004: rock02
+    3300006: rock03
+    3300008: rock04
+    3300010: rock05
+    3300012: rock06
+    3300014: rock07
+    3300016: rock08
+    3300018: rock09
+    3300020: rock10
+    3300022: rock11
+    3300024: rock12
+    3300026: rock13
+    3300028: rock14
+    3300030: rock15
+    3300032: rock16
+    3300034: rocks
+    3300036: //RootNode
+    4300000: rock01
+    4300002: rock15
+    4300004: rock13
+    4300006: rock07
+    4300008: rock11
+    4300010: rock05
+    4300012: rock09
+    4300014: rock03
+    4300016: rock14
+    4300018: rock10
+    4300020: rock02
+    4300022: rock06
+    4300024: rock12
+    4300026: rock08
+    4300028: rock16
+    4300030: rock04
+    4300032: bonfireOff
+    4300034: rocks
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

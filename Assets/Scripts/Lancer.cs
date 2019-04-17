@@ -2,9 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-int ammo = 10;
-
-public class AmmoDown : MonoBehaviour
+public class Lancer : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8eb8afd4cb6de3c43a47f0002edf64db
+guid: 9360f79383480f4449cb301675c710c6
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -116,7 +116,7 @@ ModelImporter:
     2100000: No Name
     4300000: character
     4300002: holster
-    7400000: coup
+    7400000: leve
     9500000: //RootNode
     13700000: character
     13700002: holster
@@ -149,17 +149,17 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: coup
+      name: leve
       takeName: mixamo.com
       firstFrame: 0
-      lastFrame: 63
+      lastFrame: 19
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0

@@ -1,51 +1,51 @@
 fileFormatVersion: 2
-guid: 8eb8afd4cb6de3c43a47f0002edf64db
+guid: 24239850093acdc4b9a9ea1666ae24c1
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: character
     100002: chest
-    100004: //RootNode
-    100006: f_index.01.L
-    100008: f_index.01.R
-    100010: f_index.02.L
-    100012: f_index.02.R
-    100014: f_index.03.L
-    100016: f_index.03.R
-    100018: f_middle.01.L
-    100020: f_middle.01.R
-    100022: f_middle.02.L
-    100024: f_middle.02.R
-    100026: f_middle.03.L
-    100028: f_middle.03.R
-    100030: f_pinky.01.L
-    100032: f_pinky.01.R
-    100034: f_pinky.02.L
-    100036: f_pinky.02.R
-    100038: f_pinky.03.L
-    100040: f_pinky.03.R
-    100042: f_ring.01.L
-    100044: f_ring.01.R
-    100046: f_ring.02.L
-    100048: f_ring.02.R
-    100050: f_ring.03.L
-    100052: f_ring.03.R
-    100054: foot.L
-    100056: foot.R
-    100058: forearm.L
-    100060: forearm.R
-    100062: hand.L
-    100064: hand.R
-    100066: head
-    100068: hips
-    100070: holster
-    100072: metarig
-    100074: neck
-    100076: shin.L
-    100078: shin.R
-    100080: shoulder.L
-    100082: shoulder.R
-    100084: spine
+    100004: f_index.01.L
+    100006: f_index.01.R
+    100008: f_index.02.L
+    100010: f_index.02.R
+    100012: f_index.03.L
+    100014: f_index.03.R
+    100016: f_middle.01.L
+    100018: f_middle.01.R
+    100020: f_middle.02.L
+    100022: f_middle.02.R
+    100024: f_middle.03.L
+    100026: f_middle.03.R
+    100028: f_pinky.01.L
+    100030: f_pinky.01.R
+    100032: f_pinky.02.L
+    100034: f_pinky.02.R
+    100036: f_pinky.03.L
+    100038: f_pinky.03.R
+    100040: f_ring.01.L
+    100042: f_ring.01.R
+    100044: f_ring.02.L
+    100046: f_ring.02.R
+    100048: f_ring.03.L
+    100050: f_ring.03.R
+    100052: foot.L
+    100054: foot.R
+    100056: forearm.L
+    100058: forearm.R
+    100060: hand.L
+    100062: hand.R
+    100064: head
+    100066: hips
+    100068: holster
+    100070: metarig
+    100072: neck
+    100074: shin.L
+    100076: shin.R
+    100078: shoulder.L
+    100080: shoulder.R
+    100082: spine
+    100084: //RootNode
     100086: thigh.L
     100088: thigh.R
     100090: thumb.01.L
@@ -60,47 +60,47 @@ ModelImporter:
     100108: upper_arm.R
     400000: character
     400002: chest
-    400004: //RootNode
-    400006: f_index.01.L
-    400008: f_index.01.R
-    400010: f_index.02.L
-    400012: f_index.02.R
-    400014: f_index.03.L
-    400016: f_index.03.R
-    400018: f_middle.01.L
-    400020: f_middle.01.R
-    400022: f_middle.02.L
-    400024: f_middle.02.R
-    400026: f_middle.03.L
-    400028: f_middle.03.R
-    400030: f_pinky.01.L
-    400032: f_pinky.01.R
-    400034: f_pinky.02.L
-    400036: f_pinky.02.R
-    400038: f_pinky.03.L
-    400040: f_pinky.03.R
-    400042: f_ring.01.L
-    400044: f_ring.01.R
-    400046: f_ring.02.L
-    400048: f_ring.02.R
-    400050: f_ring.03.L
-    400052: f_ring.03.R
-    400054: foot.L
-    400056: foot.R
-    400058: forearm.L
-    400060: forearm.R
-    400062: hand.L
-    400064: hand.R
-    400066: head
-    400068: hips
-    400070: holster
-    400072: metarig
-    400074: neck
-    400076: shin.L
-    400078: shin.R
-    400080: shoulder.L
-    400082: shoulder.R
-    400084: spine
+    400004: f_index.01.L
+    400006: f_index.01.R
+    400008: f_index.02.L
+    400010: f_index.02.R
+    400012: f_index.03.L
+    400014: f_index.03.R
+    400016: f_middle.01.L
+    400018: f_middle.01.R
+    400020: f_middle.02.L
+    400022: f_middle.02.R
+    400024: f_middle.03.L
+    400026: f_middle.03.R
+    400028: f_pinky.01.L
+    400030: f_pinky.01.R
+    400032: f_pinky.02.L
+    400034: f_pinky.02.R
+    400036: f_pinky.03.L
+    400038: f_pinky.03.R
+    400040: f_ring.01.L
+    400042: f_ring.01.R
+    400044: f_ring.02.L
+    400046: f_ring.02.R
+    400048: f_ring.03.L
+    400050: f_ring.03.R
+    400052: foot.L
+    400054: foot.R
+    400056: forearm.L
+    400058: forearm.R
+    400060: hand.L
+    400062: hand.R
+    400064: head
+    400066: hips
+    400068: holster
+    400070: metarig
+    400072: neck
+    400074: shin.L
+    400076: shin.R
+    400078: shoulder.L
+    400080: shoulder.R
+    400082: spine
+    400084: //RootNode
     400086: thigh.L
     400088: thigh.R
     400090: thumb.01.L
@@ -116,7 +116,7 @@ ModelImporter:
     2100000: No Name
     4300000: character
     4300002: holster
-    7400000: coup
+    7400000: accroupi
     9500000: //RootNode
     13700000: character
     13700002: holster
@@ -149,17 +149,17 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: coup
+      name: accroupi
       takeName: mixamo.com
       firstFrame: 0
-      lastFrame: 63
+      lastFrame: 19
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0

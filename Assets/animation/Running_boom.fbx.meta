@@ -116,7 +116,7 @@ ModelImporter:
     2100000: No Name
     4300000: character
     4300002: holster
-    7400000: mixamo.com
+    7400000: boom
     9500000: //RootNode
     13700000: character
     13700002: holster
@@ -149,7 +149,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: mixamo.com
+      name: boom
       takeName: mixamo.com
       firstFrame: 0
       lastFrame: 38

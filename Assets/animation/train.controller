@@ -31,7 +31,7 @@ AnimatorState:
   m_PrefabAsset: {fileID: 0}
   m_Name: train
   m_Speed: 1
-  m_CycleOffset: 0
+  m_CycleOffset: 1
   m_Transitions: []
   m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
@@ -59,7 +59,7 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102240163263766060}
-    m_Position: {x: 200, y: 0, z: 0}
+    m_Position: {x: 288, y: 48, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
